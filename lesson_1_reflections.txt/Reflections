@@ -1,0 +1,36 @@
+Reflections
+
+1. How did viewing a diff between two version help you spot the bug?
+
+The diff was displayed. the differences showed what was changed by using plus and minus signs. It really made it easier and more efficient to spot the bug instead of going line by line. I only had to skim through the code.
+
+2. How could having easy access to the entire history of a file make you a more efficient programer in the long run?
+
+I mean you can learn from your mistakes. The errors we make in programing and the bugs we find we fix them. We can compare our old code to our new code and it helps us learn from our errors. In Programming I am sure I will make errors. It is up to me to fix those errors and to learn from them.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+It is less room for error. You commit(save) when you want to. You can also add messages to your commits unlike google, which automatically saves you have more control with git.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is meant for saving coding programs. Google docs is a word document. They both serve different functions. Git is meant to save repositories with code, on the other hand google docs are meant to save word documents.
+
+5.How can you use the commands git log and git diff to view the history of files?
+
+Git log can be used to show a record of the running records. Git diff shows the different commits, by using both we can compare them.
+
+6.How might using version control make you more confident to make changes that could break something?
+
+Version control is amazing. It lets us see all of our changes. It helps us find bugs and correct the bugs. It allows us to take risks and make changes with out breaking the project.
+
+7.Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to use git save all my files, move my files, access sublime, and eventually bring my ideas to life and build my own start up company.
+ss
+
+
+
+
+
+
